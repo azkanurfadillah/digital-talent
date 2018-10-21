@@ -1,0 +1,38 @@
+weight_kg = 55
+height_cm = 168
+height_m = height_cm/100
+BMI = round(weight_kg / height_m ** 2,2)
+
+print("Berat Badan Anda=", weight_kg, "kg")
+print ("Tinggi Badan Anda=", height_cm, "cm")
+print("BMI Anda=", BMI)
+
+if BMI < 15:
+    print("Kategori BMI Anda= Very severely underweight")
+
+if BMI >= 15:
+    if BMI < 16:
+        print("Kategori BMI Anda= Severely underweight")
+    
+if BMI >= 16:
+    if BMI < 18.5:
+        print ("Kategori BMI Anda= Underweight")
+    
+if BMI >= 18.5:
+    if BMI < 25:
+        print ("Kategori BMI Anda= Normal (healthy weight)")
+
+if BMI >= 25:
+    if BMI < 30:
+        print("Kategori BMI Anda= Overweight")
+    
+if BMI >= 30:
+    if BMI < 35:
+        print("Kategori BMI Anda= Moderately obese")
+
+if BMI >= 35:
+    if BMI <= 40:
+        print("Kategori BMI Anda= Severely obese")
+    
+if BMI > 40:
+    print("Kategori BMI Anda= Very severely obese")
