@@ -1,0 +1,7 @@
+HANYA MENGAMBIL DATA TAHUN 2003-2013
+
+melihat kolom 
+>>TAHUN 2013 untuk melihat kode provinsi  
+>> kode provinsi(untuk menentukan/grouping pulau)
+>> 10 provisi teratas dalam luas panen, produktivitas, dan produksi
+>> 10 provisi terbawah dalam luas panen, produktivitas, dan produksi

@@ -1,0 +1,205 @@
+kode_provinsi,nama_provinsi,subsektor,jumlah_rumah_tangga
+11,"Prov. Nanggroe Aceh Darussalam","Tanaman Pangan",22422
+11,"Prov. Nanggroe Aceh Darussalam","Hortikultura",3804
+11,"Prov. Nanggroe Aceh Darussalam","Perkebunan",36674
+11,"Prov. Nanggroe Aceh Darussalam","Peternakan",3350
+11,"Prov. Nanggroe Aceh Darussalam","Perikanan",2144
+11,"Prov. Nanggroe Aceh Darussalam","Kehutanan",882
+12,"Prov. Sumatera Utara","Tanaman Pangan",30112
+12,"Prov. Sumatera Utara","Hortikultura",4656
+12,"Prov. Sumatera Utara","Perkebunan",46013
+12,"Prov. Sumatera Utara","Peternakan",4280
+12,"Prov. Sumatera Utara","Perikanan",3112
+12,"Prov. Sumatera Utara","Kehutanan",2362
+13,"Prov. Sumatera Barat","Tanaman Pangan",28503
+13,"Prov. Sumatera Barat","Hortikultura",2603
+13,"Prov. Sumatera Barat","Perkebunan",27927
+13,"Prov. Sumatera Barat","Peternakan",3435
+13,"Prov. Sumatera Barat","Perikanan",2283
+13,"Prov. Sumatera Barat","Kehutanan",2013
+14,"Prov. Riau","Tanaman Pangan",3656
+14,"Prov. Riau","Hortikultura",2292
+14,"Prov. Riau","Perkebunan",18530
+14,"Prov. Riau","Peternakan",1614
+14,"Prov. Riau","Perikanan",3553
+14,"Prov. Riau","Kehutanan",1300
+15,"Prov. Jambi","Tanaman Pangan",3899
+15,"Prov. Jambi","Hortikultura",1342
+15,"Prov. Jambi","Perkebunan",8273
+15,"Prov. Jambi","Peternakan",624
+15,"Prov. Jambi","Perikanan",994
+15,"Prov. Jambi","Kehutanan",845
+16,"Prov. Sumatera Selatan","Tanaman Pangan",11205
+16,"Prov. Sumatera Selatan","Hortikultura",5984
+16,"Prov. Sumatera Selatan","Perkebunan",18357
+16,"Prov. Sumatera Selatan","Peternakan",2442
+16,"Prov. Sumatera Selatan","Perikanan",4400
+16,"Prov. Sumatera Selatan","Kehutanan",3640
+17,"Prov. Bengkulu","Tanaman Pangan",2649
+17,"Prov. Bengkulu","Hortikultura",1060
+17,"Prov. Bengkulu","Perkebunan",14537
+17,"Prov. Bengkulu","Peternakan",1015
+17,"Prov. Bengkulu","Perikanan",583
+17,"Prov. Bengkulu","Kehutanan",793
+18,"Prov. Lampung","Tanaman Pangan",22077
+18,"Prov. Lampung","Hortikultura",2220
+18,"Prov. Lampung","Perkebunan",21424
+18,"Prov. Lampung","Peternakan",1179
+18,"Prov. Lampung","Perikanan",1769
+18,"Prov. Lampung","Kehutanan",3962
+19,"Prov. Kepulauan Bangka Belitung","Tanaman Pangan",1120
+19,"Prov. Kepulauan Bangka Belitung","Hortikultura",479
+19,"Prov. Kepulauan Bangka Belitung","Perkebunan",1295
+19,"Prov. Kepulauan Bangka Belitung","Peternakan",250
+19,"Prov. Kepulauan Bangka Belitung","Perikanan",1326
+19,"Prov. Kepulauan Bangka Belitung","Kehutanan",1016
+21,"Prov. Kepulauan Riau","Tanaman Pangan",655
+21,"Prov. Kepulauan Riau","Hortikultura",1242
+21,"Prov. Kepulauan Riau","Perkebunan",6823
+21,"Prov. Kepulauan Riau","Peternakan",283
+21,"Prov. Kepulauan Riau","Perikanan",2443
+21,"Prov. Kepulauan Riau","Kehutanan",1428
+31,"Prov. DKI Jakarta","Tanaman Pangan",42
+31,"Prov. DKI Jakarta","Hortikultura",120
+31,"Prov. DKI Jakarta","Perkebunan",6
+31,"Prov. DKI Jakarta","Peternakan",82
+31,"Prov. DKI Jakarta","Perikanan",120
+31,"Prov. DKI Jakarta","Kehutanan",
+32,"Prov. Jawa Barat","Tanaman Pangan",95360
+32,"Prov. Jawa Barat","Hortikultura",15619
+32,"Prov. Jawa Barat","Perkebunan",74759
+32,"Prov. Jawa Barat","Peternakan",7123
+32,"Prov. Jawa Barat","Perikanan",8980
+32,"Prov. Jawa Barat","Kehutanan",34241
+33,"Prov. Jawa Tengah","Tanaman Pangan",209126
+33,"Prov. Jawa Tengah","Hortikultura",26637
+33,"Prov. Jawa Tengah","Perkebunan",180673
+33,"Prov. Jawa Tengah","Peternakan",14695
+33,"Prov. Jawa Tengah","Perikanan",7027
+33,"Prov. Jawa Tengah","Kehutanan",90508
+34,"Prov. D I Yogyakarta","Tanaman Pangan",65042
+34,"Prov. D I Yogyakarta","Hortikultura",2474
+34,"Prov. D I Yogyakarta","Perkebunan",9573
+34,"Prov. D I Yogyakarta","Peternakan",1736
+34,"Prov. D I Yogyakarta","Perikanan",374
+34,"Prov. D I Yogyakarta","Kehutanan",14373
+35,"Prov. Jawa Timur","Tanaman Pangan",173158
+35,"Prov. Jawa Timur","Hortikultura",20937
+35,"Prov. Jawa Timur","Perkebunan",133618
+35,"Prov. Jawa Timur","Peternakan",20432
+35,"Prov. Jawa Timur","Perikanan",4872
+35,"Prov. Jawa Timur","Kehutanan",74574
+36,"Prov. Banten","Tanaman Pangan",6867
+36,"Prov. Banten","Hortikultura",5905
+36,"Prov. Banten","Perkebunan",5010
+36,"Prov. Banten","Peternakan",1277
+36,"Prov. Banten","Perikanan",222
+36,"Prov. Banten","Kehutanan",9467
+51,"Prov. Bali","Tanaman Pangan",3347
+51,"Prov. Bali","Hortikultura",394
+51,"Prov. Bali","Perkebunan",8624
+51,"Prov. Bali","Peternakan",327
+51,"Prov. Bali","Perikanan",129
+51,"Prov. Bali","Kehutanan",2651
+52,"Prov. Nusa Tenggara Barat","Tanaman Pangan",11422
+52,"Prov. Nusa Tenggara Barat","Hortikultura",1058
+52,"Prov. Nusa Tenggara Barat","Perkebunan",20965
+52,"Prov. Nusa Tenggara Barat","Peternakan",1277
+52,"Prov. Nusa Tenggara Barat","Perikanan",539
+52,"Prov. Nusa Tenggara Barat","Kehutanan",3930
+53,"Prov. Nusa Tenggara Timur","Tanaman Pangan",19760
+53,"Prov. Nusa Tenggara Timur","Hortikultura",6130
+53,"Prov. Nusa Tenggara Timur","Perkebunan",68140
+53,"Prov. Nusa Tenggara Timur","Peternakan",2315
+53,"Prov. Nusa Tenggara Timur","Perikanan",3193
+53,"Prov. Nusa Tenggara Timur","Kehutanan",9883
+61,"Prov. Kalimantan Barat","Tanaman Pangan",15019
+61,"Prov. Kalimantan Barat","Hortikultura",3834
+61,"Prov. Kalimantan Barat","Perkebunan",27901
+61,"Prov. Kalimantan Barat","Peternakan",1787
+61,"Prov. Kalimantan Barat","Perikanan",5245
+61,"Prov. Kalimantan Barat","Kehutanan",2727
+62,"Prov. Kalimantan Tengah","Tanaman Pangan",5764
+62,"Prov. Kalimantan Tengah","Hortikultura",3062
+62,"Prov. Kalimantan Tengah","Perkebunan",5151
+62,"Prov. Kalimantan Tengah","Peternakan",1516
+62,"Prov. Kalimantan Tengah","Perikanan",6041
+62,"Prov. Kalimantan Tengah","Kehutanan",3611
+63,"Prov. Kalimantan Selatan","Tanaman Pangan",5367
+63,"Prov. Kalimantan Selatan","Hortikultura",1079
+63,"Prov. Kalimantan Selatan","Perkebunan",3770
+63,"Prov. Kalimantan Selatan","Peternakan",798
+63,"Prov. Kalimantan Selatan","Perikanan",4980
+63,"Prov. Kalimantan Selatan","Kehutanan",3156
+64,"Prov. Kalimantan Timur","Tanaman Pangan",4417
+64,"Prov. Kalimantan Timur","Hortikultura",692
+64,"Prov. Kalimantan Timur","Perkebunan",5381
+64,"Prov. Kalimantan Timur","Peternakan",416
+64,"Prov. Kalimantan Timur","Perikanan",3252
+64,"Prov. Kalimantan Timur","Kehutanan",1289
+71,"Prov. Sulawesi Utara","Tanaman Pangan",3796
+71,"Prov. Sulawesi Utara","Hortikultura",2509
+71,"Prov. Sulawesi Utara","Perkebunan",83416
+71,"Prov. Sulawesi Utara","Peternakan",898
+71,"Prov. Sulawesi Utara","Perikanan",1580
+71,"Prov. Sulawesi Utara","Kehutanan",2802
+72,"Prov. Sulawesi Tengah","Tanaman Pangan",11972
+72,"Prov. Sulawesi Tengah","Hortikultura",4851
+72,"Prov. Sulawesi Tengah","Perkebunan",104002
+72,"Prov. Sulawesi Tengah","Peternakan",2480
+72,"Prov. Sulawesi Tengah","Perikanan",4097
+72,"Prov. Sulawesi Tengah","Kehutanan",3478
+73,"Prov. Sulawesi Selatan","Tanaman Pangan",21687
+73,"Prov. Sulawesi Selatan","Hortikultura",3111
+73,"Prov. Sulawesi Selatan","Perkebunan",26219
+73,"Prov. Sulawesi Selatan","Peternakan",5146
+73,"Prov. Sulawesi Selatan","Perikanan",3094
+73,"Prov. Sulawesi Selatan","Kehutanan",6343
+74,"Prov. Sulawesi Tenggara","Tanaman Pangan",16172
+74,"Prov. Sulawesi Tenggara","Hortikultura",2191
+74,"Prov. Sulawesi Tenggara","Perkebunan",31270
+74,"Prov. Sulawesi Tenggara","Peternakan",566
+74,"Prov. Sulawesi Tenggara","Perikanan",3611
+74,"Prov. Sulawesi Tenggara","Kehutanan",4286
+75,"Prov. Gorontalo","Tanaman Pangan",1530
+75,"Prov. Gorontalo","Hortikultura",653
+75,"Prov. Gorontalo","Perkebunan",14016
+75,"Prov. Gorontalo","Peternakan",376
+75,"Prov. Gorontalo","Perikanan",177
+75,"Prov. Gorontalo","Kehutanan",664
+76,"Prov. Sulawesi Barat","Tanaman Pangan",2432
+76,"Prov. Sulawesi Barat","Hortikultura",802
+76,"Prov. Sulawesi Barat","Perkebunan",13725
+76,"Prov. Sulawesi Barat","Peternakan",760
+76,"Prov. Sulawesi Barat","Perikanan",695
+76,"Prov. Sulawesi Barat","Kehutanan",539
+81,"Prov. Maluku","Tanaman Pangan",25550
+81,"Prov. Maluku","Hortikultura",7855
+81,"Prov. Maluku","Perkebunan",46121
+81,"Prov. Maluku","Peternakan",1496
+81,"Prov. Maluku","Perikanan",6481
+81,"Prov. Maluku","Kehutanan",3042
+82,"Prov. Maluku Utara","Tanaman Pangan",20696
+82,"Prov. Maluku Utara","Hortikultura",4234
+82,"Prov. Maluku Utara","Perkebunan",78406
+82,"Prov. Maluku Utara","Peternakan",1038
+82,"Prov. Maluku Utara","Perikanan",2215
+82,"Prov. Maluku Utara","Kehutanan",1501
+91,"Prov. Papua Barat","Tanaman Pangan",1432
+91,"Prov. Papua Barat","Hortikultura",1320
+91,"Prov. Papua Barat","Perkebunan",4256
+91,"Prov. Papua Barat","Peternakan",344
+91,"Prov. Papua Barat","Perikanan",3082
+91,"Prov. Papua Barat","Kehutanan",2122
+94,"Prov. Papua","Tanaman Pangan",22862
+94,"Prov. Papua","Hortikultura",6527
+94,"Prov. Papua","Perkebunan",9618
+94,"Prov. Papua","Peternakan",5856
+94,"Prov. Papua","Perikanan",6841
+94,"Prov. Papua","Kehutanan",7055
+,"Prov. Kalimantan Utara","Tanaman Pangan",2383
+,"Prov. Kalimantan Utara","Hortikultura",230
+,"Prov. Kalimantan Utara","Perkebunan",679
+,"Prov. Kalimantan Utara","Peternakan",159
+,"Prov. Kalimantan Utara","Perikanan",1297
+,"Prov. Kalimantan Utara","Kehutanan",693
