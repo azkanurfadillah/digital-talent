@@ -1,1 +1,2 @@
 Analisis produksi tanaman jagung dari tahun 1993-2013 per provinsi
+Sebagaimana diagram yang terlihat bahwa dari tahun ketahun produksi jagung cenderung meningkat juga produksi jagung didominasi dari pulau jawa, dari hal ini kita dapat menggabungkan dengan informasi distribusi dari tanaman jagung itu sendiri ke seluruh Indonesia juga harga jagung disetiap provinsinya. Sehingga dapat kita lihat apakah dan bagaimana pengaruh terhadapa harga untuk masyarakat dari produksi tanaman jagung di berbagai daerah dan jumlah produksinya. 
